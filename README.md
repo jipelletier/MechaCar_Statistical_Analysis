@@ -16,3 +16,11 @@ The vehicle_length and ground_clearance provide non-random amount of variance to
 The slope of the line is not considered to be 0 as the p-value of the model is below 0.05 at 5.35e-11.
 
 This linear model effectively predicts the MPG of MechaCar prototypes as the r-squared value of 0.7149 is a strong level of correlation.
+
+
+## Summary Statistics on Suspension Coils
+### Total Summary Stats:
+<img width="265" alt="TotalSum" src="https://user-images.githubusercontent.com/105477190/193951394-e798b1b1-9dfa-441a-a0d2-bfba6e3a92e3.png">
+
+### Statistics by Lot:
+<img width="460" alt="StatsbyLot" src="https://user-images.githubusercontent.com/105477190/193951478-883f83bd-f342-4c4a-9495-a70d67361800.png">
