@@ -5,8 +5,10 @@ Statistical analysis can be especially helpful when companies are evaluating pro
 
 ## Linear Regression to Predict MPG
 ### Slope Results:
+<img width="736" alt="SlopeResults" src="https://user-images.githubusercontent.com/105477190/193951179-a6e917c4-bd9f-4cda-bbb3-7b8f58e8d931.png">
 
 ### Summary Stats:
+<img width="574" alt="SumStats" src="https://user-images.githubusercontent.com/105477190/193951197-39c22ce4-f508-4b30-bc61-e6c38de9f30c.png">
 
 
 The vehicle_length and ground_clearance provide non-random amount of variance to the MPG values as p-values are below 0.05.
