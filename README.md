@@ -24,6 +24,7 @@ This linear model effectively predicts the MPG of MechaCar prototypes as the r-s
 
 ### Statistics by Lot:
 <img width="460" alt="StatsbyLot" src="https://user-images.githubusercontent.com/105477190/193951478-883f83bd-f342-4c4a-9495-a70d67361800.png">
+
 ### Conclusion:
 The overall expectation on performance of the suspension coils is that they perform at a mean of 1498.78 PSI, with a variance of 62.29 and standard deviation of 7.89.
 
@@ -39,8 +40,9 @@ The variability on lot 1 and 2 is much tigher than lot 3, which is driving the o
 ### T-Test of All ?Manufacturing Lots against Mean PSI of Population:
 <img width="824" alt="Ttest" src="https://user-images.githubusercontent.com/105477190/193951715-650854d5-d0ad-415f-82f4-945c939c344a.png">
 
-### T-Test of Each of 3 Manufacturing Lots Individually Against Mean PSI of Population
+### T-Test of Each of 3 Manufacturing Lots Individually Against Mean PSI of Population:
 <img width="824" alt="TTest2" src="https://user-images.githubusercontent.com/105477190/193951843-57398c97-2670-456f-900f-a12e15ea9b00.png">
+
 ### Conclusion:
 Since the p-values of the t-test for Lot 1 and Lot 2 are more than 0.05 we cannot reject the null hypothesis, thus their means are statistically similar the population mean. Lot 3 on the other hand with a p-value of 0.04168 is considered statistically different than the population mean of 1500.
 
