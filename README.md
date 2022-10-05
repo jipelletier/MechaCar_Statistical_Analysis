@@ -46,5 +46,20 @@ The variability on lot 1 and 2 is much tigher than lot 3, which is driving the o
 ### Conclusion:
 Since the p-values of the t-test for Lot 1 and Lot 2 are more than 0.05 we cannot reject the null hypothesis, thus their means are statistically similar the population mean. Lot 3 on the other hand with a p-value of 0.04168 is considered statistically different than the population mean of 1500.
 
+## Study Design: MechaCar vs. Competition
+Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
+
+### Metrics:
+To compare vehicle performance of the MechaCar versus its top competitors, AutosRUs should look at two main performance measures:
+- City and Highway Fuel Efficiency
+- Horsepower
+
+### Alternative Hypothesis?
+- H0: There is no statistifcal difference in the mean Fuel Efficiency and Horsepower between the MechaCar and its competitors.
+- HA: There is a statistical difference in the mean Fuel Efficiency and Horsepower between the MechaCar and its competitors.
+
+### What statistical test would you use to test the hypothesis? Why?
+- Fuel Efficiency (Miles Per Gallon): A two-sample T-Test should be used to perform this analysis since the independent variable is dichotomous (MechaCar vs. Competitors) and the dependent variable (MPG) is continuous.
+- Horsepower: A two-sample T-Test should be used to perform this analysis since the independent variable is dichotomous (MechaCar vs. Competitors) and the dependent variable (horsepower) is continuous.
 
 
